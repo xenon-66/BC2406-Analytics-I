@@ -7,9 +7,10 @@ This repository contains coursework and projects for BC2406 Analytics I, coverin
 - Business Analytics Applications
 
 ## 📝 Individual Assignment: Misinformation Detection
-Objective: Develop a predictive model to identify and classify misinformation in digital content
+### Objective:
+Develop a predictive model to identify and classify misinformation in digital content
 
-**Logistic Regression:**
+### Logistic Regression:
 
 Confusion Matrix
 
@@ -26,7 +27,7 @@ Performance Metrics
 | Precision | 91.4%   |
 | Recall    | 91.4%   |
 
-**CART Model:**
+### CART Model:
 
 Confusion Matrix
 
