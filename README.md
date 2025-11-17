@@ -1,3 +1,3 @@
 # BC2406-Analytics-I
 
-# Repository for assignments
+Repository for assignments
