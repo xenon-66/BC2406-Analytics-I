@@ -15,8 +15,8 @@ Develop a predictive model to identify and classify misinformation in digital co
 **Confusion Matrix**
 |                | Predicted Positive | Predicted Negative |
 |----------------|-----------------|-----------------|
-| **Actual Positive** | 64 (TP)        | 6 (FN)          |
-| **Actual Negative** | 6 (FP)         | 74 (TN)         |
+| **Actual Positive** | 74 (TP)        | 6 (FN)          |
+| **Actual Negative** | 6 (FP)         | 64 (TN)         |
 
 **Performance Metrics**
 | Metric    | Value   |
@@ -30,14 +30,14 @@ Develop a predictive model to identify and classify misinformation in digital co
 **Confusion Matrix**
 |                | Predicted Positive | Predicted Negative |
 |----------------|-----------------|-----------------|
-| **Actual Positive** | 62 (TP)        | 8 (FN)          |
-| **Actual Negative** | 0 (FP)         | 80 (TN)         |
+| **Actual Positive** | 80 (TP)        | 0 (FN)          |
+| **Actual Negative** | 8 (FP)         | 62 (TN)         |
 
 **Performance Metrics**
 | Metric    | Value   |
 |-----------|---------|
 | Accuracy  | 94.7%   |
-| Precision | 100%    |
+| Precision | 100.0%    |
 | Recall    | 88.6%   |
 
 ## 👥 Group Project: Diabetes Risk Prediction
