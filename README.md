@@ -13,14 +13,12 @@ Develop a predictive model to identify and classify misinformation in digital co
 ### Logistic Regression:
 
 Confusion Matrix
-
 |                | Predicted Positive | Predicted Negative |
 |----------------|-----------------|-----------------|
 | **Actual Positive** | 64 (TP)        | 6 (FN)          |
 | **Actual Negative** | 6 (FP)         | 74 (TN)         |
 
 Performance Metrics
-
 | Metric    | Value   |
 |-----------|---------|
 | Accuracy  | 92.0%   |
