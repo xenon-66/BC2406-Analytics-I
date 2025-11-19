@@ -39,7 +39,3 @@ Develop a predictive model to identify and classify misinformation in digital co
 | Accuracy  | 94.7%   |
 | Precision | 100.0%    |
 | Recall    | 88.6%   |
-
-## 👥 Group Project: Diabetes Risk Prediction
-### Objective:
-Build predictive analytics models to assess diabetes risk factors and predict patient outcomes
